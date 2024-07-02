@@ -1,1 +1,4 @@
-ECHO est  activado.
+ECHO estï¿½ activado.
+import pandas as pd
+import numpy as np
+print ("ya esta hecho")
